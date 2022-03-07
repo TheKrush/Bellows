@@ -1,8 +1,8 @@
 # Bellows
 ---
 
-* **Author**: casualchameleon (discord: casualchameleon#6618), temportalflux (discord: temportalflux#3142)
-* **Version**: 0.3.2
+* **Author**: thekrush (discord: krush#5780), casualchameleon (discord: casualchameleon#6618), temportalflux (discord: temportalflux#3142)
+* **Version**: 0.3.3
 * **Foundry VTT Compatibility**: Tested on 0.6.6 and 0.7.5
 * **System Compatibility (If applicable)**: n/a
 * **Module Requirement(s)**: n/a
@@ -10,8 +10,8 @@
 * **Translation Support**: Playlist import is localised at the moment, but nothing else.
 
 ## Link(s) to Module
-* https://github.com/casualchameleon/Bellows
-* https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json
+* https://github.com/thekrush/Bellows
+* https://raw.githubusercontent.com/thekrush/Bellows/master/module.json
 
 ## Description
 This is a fork of temportalflux's [MusicAssist](https://github.com/temportalflux/MusicAssist) module which is not actively maintained. It aims to add support for youtube tracks and playlists, allowing users to grab their favorite youtube soundtracks and save them as tracks in FVTT. These tracks are played back on each user's computer according to the normal playlist controls. This does require an internet connection to work properly, as it streams the video and just plays the audio.
@@ -21,7 +21,7 @@ Not all tracks and playlists are supported, as the YouTube author needs to enabl
 
 
 ## Installation
-Import the [module.json](https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json) as you would any other module. The contents of the module directory should look similar to this github repository's root.
+Import the [module.json](https://raw.githubusercontent.com/thekrush/Bellows/master/module.json) as you would any other module. The contents of the module directory should look similar to this github repository's root.
 
 ## Features
 
